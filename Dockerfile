@@ -20,4 +20,4 @@ RUN dotnet publish "MSPOC.csproj" -c Release -o /app
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app .
-ENTRYPOINT ["dotnet", "MSPOC.dll"]
+ENTRYPOINT ["dotnet", "mspoc.dll"]
