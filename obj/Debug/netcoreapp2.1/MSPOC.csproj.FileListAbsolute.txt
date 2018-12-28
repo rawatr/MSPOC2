@@ -1,0 +1,15 @@
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\obj\Debug\netcoreapp2.1\MSPOC.csproj.CoreCompileInputs.cache
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\bin\Debug\netcoreapp2.1\MSPOC.deps.json
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\bin\Debug\netcoreapp2.1\MSPOC.runtimeconfig.json
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\bin\Debug\netcoreapp2.1\MSPOC.runtimeconfig.dev.json
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\bin\Debug\netcoreapp2.1\MSPOC.dll
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\bin\Debug\netcoreapp2.1\MSPOC.pdb
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\obj\Debug\netcoreapp2.1\MSPOC.RazorAssemblyInfo.cache
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\obj\Debug\netcoreapp2.1\MSPOC.RazorAssemblyInfo.cs
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\obj\Debug\netcoreapp2.1\MSPOC.AssemblyInfoInputs.cache
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\obj\Debug\netcoreapp2.1\MSPOC.AssemblyInfo.cs
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\obj\Debug\netcoreapp2.1\MSPOC.RazorTargetAssemblyInfo.cache
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\obj\Debug\netcoreapp2.1\MSPOC.dll
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\obj\Debug\netcoreapp2.1\MSPOC.pdb
+C:\Users\rawatr\source\repos\MSPOC\MSPOC\obj\Debug\netcoreapp2.1\MSPOC.csprojAssemblyReference.cache
